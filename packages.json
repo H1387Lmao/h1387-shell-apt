@@ -1,44 +1,8 @@
 {
     "packages": {
-        "htop": {
-            "description": "An interactive process viewer for Unix systems.",
-            "url": "https://hisham.hm/htop/releases/3.2.0/htop-3.2.0.tar.gz"
-        },
-        "wget": {
-            "description": "A free utility for non-interactive download of files from the web.",
-            "url": "https://ftp.gnu.org/gnu/wget/wget-1.21.tar.gz"
-        },
-        "curl": {
-            "description": "A command-line tool for transferring data with URL syntax.",
-            "url": "https://curl.se/download/curl-7.79.1.tar.gz"
-        },
-        "nano": {
-            "description": "A simple, easy-to-use text editor.",
-            "url": "https://www.nano-editor.org/dist/v5/nano-5.8.tar.gz"
-        },
-        "tree": {
-            "description": "A recursive directory listing program that produces a depth-indented listing of files.",
-            "url": "http://mama.indstate.edu/users/ice/tree/src/tree-2.0.2.tgz"
-        },
-        "cmatrix": {
-            "description": "A Matrix-like scrolling text display.",
-            "url": "https://github.com/abishekvashok/cmatrix/archive/refs/tags/2.0.0.tar.gz"
-        },
-        "figlet": {
-            "description": "A program for making large letters out of ordinary text.",
-            "url": "http://www.figlet.org/img/figlet-2.2.5.tar.gz"
-        },
-        "bc": {
-            "description": "An arbitrary precision calculator language.",
-            "url": "https://ftp.gnu.org/gnu/bc/bc-1.07.1.tar.gz"
-        },
-        "ncdu": {
-            "description": "A disk usage analyzer with an ncurses interface.",
-            "url": "https://dev.yorhel.nl/ncdu/ncdu-1.15.1.tar.gz"
-        },
-        "fping": {
-            "description": "A command-line tool to send ICMP echo requests to network hosts.",
-            "url": "https://fping.org/dist/fping-5.0.tar.gz"
+        "echo"{
+            "description":"A test package for APT,
+            "url" : "https://raw.githubusercontent.com/H1387Lmao/h1387-shell-apt/refs/heads/main/echo.py"
         }
     }
 }
