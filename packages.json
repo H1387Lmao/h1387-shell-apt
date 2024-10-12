@@ -1,0 +1,12 @@
+{
+    "packages": {
+        "package1": {
+            "description": "This is package 1.",
+            "url": "https://example.com/packages/package1.tar.gz"
+        },
+        "package2": {
+            "description": "This is package 2.",
+            "url": "https://example.com/packages/package2.tar.gz"
+        }
+    }
+}
