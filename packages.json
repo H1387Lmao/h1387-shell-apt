@@ -2,7 +2,7 @@
     "packages": {
         "echo":{
             "description":"A test package for APT",
-            "url" : "https://raw.githubusercontent.com/H1387Lmao/h1387-shell-apt/refs/heads/main/echo.py"
+            "url" : "https://raw.githubusercontent.com/H1387Lmao/h1387-shell-apt/main/echo.py"
         }
     }
 }
